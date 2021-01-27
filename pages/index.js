@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Bem Vindo a Imersão React 2021 01<a href="https://nextjs.org">Next.js!</a>
+          Bem Vindo a Imersão React 2021 01 27<a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className={styles.description}>
